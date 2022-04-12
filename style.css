@@ -154,6 +154,7 @@ position: relative;
 /* ! Grid */
 .grid{display: flex; max-width: 1350px; padding: 0 30px; margin 0 auto;}
 .grid .col{width: 100%;}
+.colorteam{color: #000080;}
 
 @media (max-width: 768px) {
   .grid{flex-wrap: wrap;}
